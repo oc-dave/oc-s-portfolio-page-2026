@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "David Okechukwu — Frontend Developer",
+      "hasCanvas": false,
+      "bodyTextLen": 2496,
+      "bodyTextHash": "c0d9e694ddfa690d9bbc56d8267dd0d79a7f23529b4b8f7e70afe8be8207645f",
+      "bodyTextPrefix": "Skip to content OC.Dave Home About Work Services Contact Let’s t",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "David Okechukwu — Frontend Developer",
+      "hasCanvas": false,
+      "bodyTextLen": 2452,
+      "bodyTextHash": "977880cd595818c6e0434afced896a1f98c3c5d27c98e6004988ab61ff937b01",
+      "bodyTextPrefix": "Skip to content OC.Dave OPEN TO FULL-TIME ROLES & FREELANCE Davi",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}

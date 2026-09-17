@@ -1,0 +1,62 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Contents 4 0 R /Resources << /Font << /F1 5 0 R /F2 6 0 R >> >> >>
+endobj
+4 0 obj
+<< /Length 2535 >>
+stream
+BT /F2 22 Tf 48 752 Td (DAVID OKECHUKWU) Tj ET
+BT /F1 11 Tf 48 735 Td (Frontend Developer  ·  Web Designer  ·  Lagos, Nigeria) Tj ET
+BT /F1 10 Tf 48 719 Td (+234 814 227 7301  ·  davidokechukwu18@gmail.com  ·  ocdave18@gmail.com) Tj ET
+BT /F1 10 Tf 48 703 Td (github.com/oc-dave  ·  linkedin.com/in/david-chinenye-okechukwu-86971333a) Tj ET
+BT /F2 12 Tf 48 671 Td (SUMMARY) Tj ET
+BT /F1 10 Tf 48 655 Td (Front-End Developer with experience in Next.js, React, HTML, CSS, and TypeScript \(TSX\).) Tj ET
+BT /F1 10 Tf 48 639 Td (Passionate about building responsive, user-friendly web applications with clean, maintainable) Tj ET
+BT /F1 10 Tf 48 623 Td (code. Quick learner with a problem-solving mindset and a solid foundation in Java and Python.) Tj ET
+BT /F1 10 Tf 48 607 Td (Always eager to take on new challenges, collaborate with teams, and grow in a dynamic environment.) Tj ET
+BT /F2 12 Tf 48 575 Td (SKILLS) Tj ET
+BT /F1 10 Tf 48 559 Td (HTML5  ·  CSS3  ·  JavaScript  ·  TypeScript  ·  React  ·  Next.js  ·  Responsive Design) Tj ET
+BT /F1 10 Tf 48 543 Td (UI/UX  ·  Git  ·  Java  ·  Python) Tj ET
+BT /F2 12 Tf 48 511 Td (SELECTED WORK) Tj ET
+BT /F2 11 Tf 48 494 Td (AHO Mansions  ?  React, Node.js  ?  aho-mansions.vercel.app) Tj ET
+BT /F1 10 Tf 48 478 Td (Real-estate investment platform that makes property investing accessible, with an intuitive) Tj ET
+BT /F1 10 Tf 48 462 Td (interface and an affordable entry point.) Tj ET
+BT /F2 11 Tf 48 445 Td (Ekekhen Think Tank  ?  Bootstrap, Tailwind, JavaScript  ?  ekekhenthinktank.com.ng) Tj ET
+BT /F1 10 Tf 48 429 Td (Civic website for the association improving Ekekhen, Edo State through roads, streetlights,) Tj ET
+BT /F1 10 Tf 48 413 Td (and water installations. Fully responsive with interactive sections.) Tj ET
+BT /F2 11 Tf 48 396 Td (TicTacToe  ?  React  ?  dave-s-x-and-o.vercel.app) Tj ET
+BT /F1 10 Tf 48 380 Td (A difficult computer opponent, sleek interface, and high-intensity play.) Tj ET
+BT /F2 11 Tf 48 363 Td (QR Code Generator  ?  React, TypeScript  ?  qr-gen-omega-two.vercel.app) Tj ET
+BT /F1 10 Tf 48 347 Td (Generate and download QR codes for any URL, with empty-input handling and a clean UI.) Tj ET
+BT /F2 11 Tf 48 330 Td (Dictionary Web App  ?  HTML, CSS, JavaScript  ?  oc-dave.github.io/dictionary-web-app) Tj ET
+BT /F1 10 Tf 48 314 Td (Live definitions, pronunciations, examples, and audio ? responsive across devices.) Tj ET
+BT /F2 12 Tf 48 282 Td (SERVICES) Tj ET
+BT /F1 10 Tf 48 266 Td (Web Development  ·  UI/UX Design  ·  Mobile Optimization) Tj ET
+endstream
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+6 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+xref
+0 7
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000251 00000 n 
+0000002838 00000 n 
+0000002908 00000 n 
+trailer
+<< /Size 7 /Root 1 0 R >>
+startxref
+2983
+%%EOF
