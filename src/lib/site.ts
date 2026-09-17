@@ -20,15 +20,15 @@ export const site = {
   emailAlt: "ocdave18@gmail.com",
   phone: "+234 814 227 7301",
   phoneHref: "tel:+2348142277301",
-  cv: "/assets/David_Okechukwu_CV.pdf",
-  portrait: "/assets/portrait.jpg",
+  cv: "/assets/Okechukwu_Chinenye_David_FlowCV_Resume_2026-06-05.pdf",
+  portrait: "/assets/oc-dave.jpg",
   aboutImage: "/assets/about.jpg",
   formEndpoint: "https://getform.io/f/apjjkova",
   roles: ["Frontend Developer", "Web Designer", "Learner"] as const,
   intro:
-    "Front-End Developer with experience in Next.js, React, HTML, CSS, and TypeScript (TSX). Passionate about building responsive, user-friendly web applications with clean, maintainable code. Quick learner with a problem-solving mindset and a solid foundation in Java and Python. Always eager to take on new challenges, collaborate with teams, and grow in a dynamic development environment.",
+    "Front-End Developer with experience in Next.js, React, HTML, CSS, and TypeScript (TSX). Passionate about building responsive, user-friendly web applications with clean, maintainable code. Quick learner with a problem-solving mindset and a solid foundation in React and all other frontend Frameweorks. Always eager to take on new challenges, collaborate with teams, and grow in a dynamic development environment.",
   about:
-    "Hello — I'm David Okechukwu, a frontend developer and web designer who builds interfaces that feel inevitable: fast, considered, and a little cinematic. I work across HTML, CSS, JavaScript, TypeScript, React, and Next.js, with a bias toward clean systems, accessible motion, and work that still looks right on a cracked Android screen.",
+    "Hello — I'm David Okechukwu, a frontend developer and web designer who builds interfaces that feel inevitable: fast, considered, and a little cinematic. I work across HTML, CSS, JavaScript, TypeScript, React, and Next.js, with a bias toward clean systems, accessible motion, and work that still looks right on a cracked Android screen. I also work with A.I to deliver the best results within a short period of time. I'm also an A.I video creator,I can bring Avatars to life that tell amazing stories or Even convince you to buy a product or patronize a business. Watch this space for more details. ;)",
   socials: [
     { label: "GitHub", href: "https://github.com/oc-dave", kind: "github" as const },
     {
